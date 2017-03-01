@@ -1,9 +1,11 @@
 # OpenGL-Lab
 Full course material for the Computer Graphics lab of Kerala University B.Tech 2013 scheme
 
-All the programs are written in either C or C++. All the bov programs are tested and found to be working in my kali linux. You may have to install the following \n
- (i)  freeglut3 / freeglut3-dev [sudo apt-get install freeglut3 freeglut3-dev] \n
- (ii) ... \n
+All the programs are written in either C or C++. All the bov programs are tested and found to be working in my kali linux. You may have to install the following
+
+ (i)  freeglut3 / freeglut3-dev [sudo apt-get install freeglut3 freeglut3-dev]
+ 
+ (ii) ... 
 other requirements will be added on the go
 
 Compiling & Running Programs
