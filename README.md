@@ -1,4 +1,4 @@
-# OpenGL-Lab
+# OpenGL-Lab - Contact fb/sreeharibs95
 Full course material for the Computer Graphics lab of Kerala University B.Tech 2013 scheme
 
 All the programs are written in either C or C++. All the bov programs are tested and found to be working in my kali linux. You may have to install the following
@@ -17,6 +17,7 @@ e.g.: $ gcc dda.c -lGL -lGLU -lglut
 List of Programs
 -----------------
 
+0. A simple program to demonstrate OpenGL
 1. DDA Line Drawing Algorithm
 2. Bresenham's Line Drawing Algorithm
 3. Midpoint Circle Drawing Algorithm
