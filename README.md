@@ -1,4 +1,6 @@
-# OpenGL-Lab - Suspended  @sreeharibss
+# OpenGL-Lab -Further Updates Suspended
+The repository has been suspended by the author. No further updates will be provided. Sorry for the Inconvenience caused (if any)
+
 Full course material for the Computer Graphics lab of Kerala University B.Tech 2013 scheme
 
 All the programs are written in either C or C++. All the bov programs are tested and found to be working in my kali linux. You may have to install the following
