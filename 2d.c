@@ -113,11 +113,6 @@ void display(){
 
 }
 
-void reshape( int w , int h ){
-
-    glViewport( 0 , 0 , w , h  );
-
-}
 
 void keyPressed( unsigned char key , int x , int y ){
 
@@ -154,7 +149,6 @@ int main( int argc, char **argv ){
     //callback functions
     glutDisplayFunc( display );
     glutIdleFunc( display );
-    glutReshapeFunc( reshape );
     glutKeyboardFunc( keyPressed );
 
     glutMainLoop();
