@@ -9,7 +9,7 @@ int xa,xb,ya,yb,p;
  void init(void){
 
     glClearColor (0.0, 0.0, 0.0, 1.0);
-    glOrtho(0.0, 100.0, 0.0, 100.0, -1.0, 1.0);
+    glOrtho(-100.0, 100.0, -100.0, 100.0, -1.0, 1.0);
 
  }
 
@@ -61,7 +61,7 @@ int main(int argc, char** argv){
     glutInitDisplayMode (GLUT_DOUBLE | GLUT_RGB);
     glutInitWindowSize (500, 500);
     glutInitWindowPosition (100, 100);
-    glutCreateWindow ("Simple DDA ");
+    glutCreateWindow ("Bresenhams Line ");
     init ();
 
     glutDisplayFunc(display);

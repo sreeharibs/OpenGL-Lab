@@ -10,7 +10,7 @@ int xa,xb,ya,yb;
  void init(void){
 
     glClearColor (0.0, 0.0, 0.0, 1.0);
-    glOrtho(0.0, 100.0, 0.0, 100.0, -1.0, 1.0);
+    glOrtho(-100.0, 100.0, -100.0, 100.0, -1.0, 1.0);
 
  }
 
