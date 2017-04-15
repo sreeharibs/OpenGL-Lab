@@ -1,14 +1,14 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-#define INT_MAX  99999999
+#define MAX  99999999
 
 int MatrixChainMultiplication(int p[], int i, int j) {
     printf( "\n (%d, %d)", i,j);
     if(i == j)
         return 0;  // base condition, no operation required to multiply
                    // same matrix.
-    int min = INT_MAX;
+    int min = MAX;
     int count;
 
     for (int k=i; k<j; k++) {
