@@ -1,4 +1,6 @@
 # OpenGL-Lab -Further Updates Suspended
+
+[![Join the chat at https://gitter.im/OpenGL-Lab/Lobby](https://badges.gitter.im/OpenGL-Lab/Lobby.svg)](https://gitter.im/OpenGL-Lab/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 The repository has been suspended by the author. No further updates will be provided. Sorry for the Inconvenience caused (if any)
 
 License : The code is free to use or share. By using the code (in anyway) you here by agree to quote my name ("SREEHARI B S - @sreeharibss - github.com/sreeharibs95") in your code. You are not supposed to violates the same
